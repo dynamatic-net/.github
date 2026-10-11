@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Dynamatic Banner" src="https://github.com/user-attachments/assets/9072c184-76f1-4a99-aab5-2eb5173f73fd" />
+  <img width="100%" alt="Dynamatic Banner" src="https://github.com/user-attachments/assets/fcd583d7-9c26-4ba5-8702-c8dc5826961a" />
 </div>
 
 # Dynamatic
